@@ -1,0 +1,14 @@
+Theme		Politicize - Political Responsive WordPress Theme	
+Date		27/05/2016
+version		2.4.0
+
+***************** Change Log ********************
+
+1. Made Compatible with WordPress 4.5
+2. Made Compatible with Woocommerce 2.5+
+3. Logo Uploading issue Fix.
+4. Layer slider Issue Fix.
+5. Breadcrumb Issue Fix.
+6. Related Project Issue Fix.
+7. Color Option Fix.
+8. Product Category page and related product Styling.

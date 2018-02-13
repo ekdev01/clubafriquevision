@@ -1,0 +1,381 @@
+/*******************************RESPONSIVE 480 START*******************************/
+@media (max-width: 480px) {
+
+.simple-grid .product-box {
+    float: left;
+    margin: 0 0 30px;
+}
+
+.normal-grid .product-box {
+    float: left;
+    margin: 0;
+}
+
+.simple-grid .product-box {
+    width: 100%;
+}
+
+strong.causes-logo {
+	margin: 0 auto 60px;
+	text-align: center;
+}
+.cp_causes-navigation {
+	float: right;
+	margin: 0;
+	width: 100%;
+}
+.head-right-box {
+	float: right;
+}
+.cp_causes-navigation .navbar .nav > li:first-child {
+	padding: 0 0 0 18px;
+}
+.cp_causes-navigation .navbar .nav > li {
+	background: none;
+}
+.demo-box {
+	display: none;
+}
+.cp_causes-navigation li ul {
+	position: static;
+}
+.cp_causes-navigation li ul::before {
+	background: none;
+	content: '';
+	border: 0;
+}
+.cp_sticky strong.causes-logo {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+.cp_sticky {
+	position: inherit;
+	padding: 25px 0 !important;
+}
+#cp_causes-banner .caption {
+	display: none;
+}
+.cp_donation-box {
+	display: none;
+}
+.cp_donation-slider .bx-wrapper::before {
+	content: '';
+	display: none;
+}
+.cp_donation-slider .bx-wrapper::after {
+	content: '';
+	display: none;
+}
+.causes-col .cp_donation-details ul li span {
+	font-size: 9px;
+}
+.causes-col .cp_donation-details ul li {
+	font-size: 13px;
+}
+.list_view_project .cp_donation-details ul li {
+	padding: 0 14px;
+}
+.challenges-box {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+.cp_facts-section {
+	padding: 30px 0;
+}
+.cp_blog-section .box {
+	width: 100%;
+}
+.cp_blog-section .holder {
+	max-width: 100%;
+}
+.donation-bar-section strong.title {
+	font-size: 37px;
+}
+.cp_blog-section .holder .bx-wrapper .bx-prev {
+	left: 0;
+}
+.cp_blog-section .holder .bx-wrapper .bx-next {
+	right: 0;
+}
+.navbar-inverse .nav-collapse .nav > li > a:hover, .navbar-inverse .nav-collapse .nav > li > a:focus, .navbar-inverse .nav-collapse .dropdown-menu a:hover, .navbar-inverse .nav-collapse .dropdown-menu a:focus {
+	background-color: transparent;
+}
+.government-widgets-box{
+	margin-bottom:30px;
+}
+.target-project-box{
+	width:100%;
+}
+.target-project-box .text-box a.btn-detail{
+	width:120px;
+	font-size:10px;
+	line-height:10px;
+}
+.target-project-box .text-box h3{
+	font-size:14px;
+	line-height:14px;
+}
+.event-border::before{
+	content:'';
+	border:0;
+}
+.event-text-box:hover .caption{
+	top:0;
+}
+.target-project-section .bx-wrapper::before, .target-project-section .bx-wrapper::after, .event-text-box .thumb .caption{
+	width:100%;
+}
+.causes-detail .cp_donation-details-2{
+	width:100%;
+}
+.rank-box{
+	width:100%;
+	margin-bottom:10px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+}
+.donate-box-2{
+	width:100%;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+}
+h2.cp-heading-full, .typography h2{
+	font:400 26px/30px "Roboto Slab",serif;
+	margin:10px 0 20px 0;
+}
+}
+/*******************************RESPONSIVE 480 END*******************************/
+
+/*******************************RESPONSIVE 767 START*******************************/
+@media (max-width: 767px) {
+#cp_causes-banner .caption {
+	max-width: 100%;
+	top: 0;
+}
+#cp_causes-banner .caption .holder h1 {
+	font: 700 40px/50px "Roboto Slab", serif !important;
+	margin: 0 0 16px;
+}
+#cp_causes-banner .caption .holder h1::before {
+	bottom: -10px;
+}
+#cp_causes-banner .caption .holder p {
+	font: 400 25px/30px "Roboto Slab", serif;
+	margin: 0 0 20px;
+}
+.demo-box {
+	display: none;
+}
+.cp_causes-navigation {
+	float: right;
+	margin: 0;
+	width: 100%;
+}
+.navbar-inverse .nav-collapse .nav > li > a:hover, .navbar-inverse .nav-collapse .nav > li > a:focus, .navbar-inverse .nav-collapse .dropdown-menu a:hover, .navbar-inverse .nav-collapse .dropdown-menu a:focus {
+	background-color: transparent !important;
+}
+.cp_causes-navigation .navbar .nav > li:first-child {
+	padding: 0 0 0 18px;
+}
+.cp_causes-navigation .navbar .nav > li {
+	background: none;
+}
+.cp_sticky strong.causes-logo {
+	float: left;
+	float: left;
+	margin: -32px 0 0 -60px;
+	width: 100%;
+}
+.cp_sticky {
+	position: inherit;
+}
+.cp_causes-navigation li ul {
+	position: static;
+}
+.cp_causes-navigation li ul::before {
+	content: '';
+	border: 0;
+	background: none;
+}
+.cp_donation-box h2 {
+	font-size: 24px;
+	line-height: 24px;
+}
+.cp_donation-box p {
+	font-size: 12px;
+	line-height: 18px;
+	margin-bottom: 15px;
+}
+.cp_progress-box {
+	display: none;
+}
+.cp_donation-details {
+	display: none;
+}
+.challenges-box {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+.cp_facts-section {
+	padding: 30px 0;
+}
+.cp_blog-section .box {
+	width: 100%;
+}
+.donation-bar-section strong.title {
+	font-size: 45px;
+}
+.cp_blog-section .holder .bx-wrapper .bx-next {
+	right: 0;
+}
+.cp_blog-section .holder .bx-wrapper .bx-prev {
+	left: 0;
+}
+.government-widgets-box{
+	margin-bottom:30px;
+}
+.target-project-box, .target-project-section .bx-wrapper::before, .target-project-section .bx-wrapper:after{
+	width:100%;
+}
+.causes-detail .cp_donation-details-2{
+	width:100%;
+}
+.rank-box{
+	width:100%;
+	margin-bottom:10px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+}
+.donate-box-2{
+	width:100%;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+}
+h2.cp-heading-full, .typography h2{
+	margin:10px 0 20px 0;
+}
+}
+/*******************************RESPONSIVE 767 END*******************************/
+
+/*******************************RESPONSIVE 767 and 979 START*******************************/
+@media (min-width: 768px) and (max-width: 979px) {
+#cp_causes-banner .caption {
+	max-width: 100%;
+}
+#cp_causes-banner .caption {
+	top: 0;
+}
+#cp_causes-banner .caption .holder h1 {
+	margin-bottom: 30px;
+}
+.cp_causes-navigation {
+	float: right;
+	width: 100%;
+	margin: 0;
+}
+.navbar-inverse .nav-collapse .nav > li > a:hover, .navbar-inverse .nav-collapse .nav > li > a:focus, .navbar-inverse .nav-collapse .dropdown-menu a:hover, .navbar-inverse .nav-collapse .dropdown-menu a:focus {
+	background-color: transparent !important;
+}
+.cp_causes-navigation .navbar .nav > li:first-child {
+	padding: 0 0 0 18px;
+}
+.cp_causes-navigation .navbar .nav > li {
+	background: none;
+}
+.cp_causes-navigation li ul {
+	position: static;
+}
+.cp_causes-navigation li ul::before {
+	content: '';
+	border: 0;
+	background: none;
+}
+.cp_sticky {
+	position: inherit;
+}
+.cp_sticky strong.causes-logo {
+	margin: -32px 0 0 -60px;
+	width: 100%;
+}
+.cp_donation-box h2 {
+	font-size: 25px;
+	line-height: 25px;
+}
+.cp_donation-box p {
+	font-size: 12px;
+	line-height: 18px;
+}
+.cp_progress-box, .cp_donation-details {
+	display: none;
+}
+.our-gols-box .round-box {
+	float: none;
+	display: tablel;
+	margin: 0 auto 20px;
+}
+.our-gols-box .text-box {
+	float: left;
+	text-align: center;
+}
+.challenges-box {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+.cp_facts-section strong.number {
+	font-size: 36px;
+	line-height: 36px;
+}
+.cp_facts-section span {
+	font-size: 12px;
+	line-height: 18px;
+}
+.cp_blog-section .box {
+	width: 100%;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+.cp_blog-section .holder .bx-wrapper .bx-prev {
+	left: 0;
+}
+.cp_blog-section .holder .bx-wrapper .bx-next {
+	right: 0;
+}
+.donation-bar-section strong.title {
+	font-size: 42px;
+	line-height: 42px;
+}
+.government-widgets-box strong{
+	font-size:19px;
+	line-height:20px;
+}
+.target-project-box, .target-project-section .bx-wrapper::before, .target-project-section .bx-wrapper:after{
+	width:100%;
+}
+.event-border::before{
+	content:'';
+	border:0;
+}
+.rank-box{
+	width:100%;
+	margin-bottom:10px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+}
+.donate-box-2{
+	width:100%;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+}
+}
+/*******************************RESPONSIVE 767 and 979 END*******************************/
